@@ -10,6 +10,8 @@ You can open the code and application using codesandbox by opening this link [ht
 
 > [!NOTE]  
 > If the preview of the application isn't working it could be because the workspace has either package-lock.json or yarn.lock files. Please delete them and run "start" from the Dev Tools' Task section.
+> 
+> <img width="340" alt="Screen Shot 2024-08-08 at 10 04 08 AM" src="https://github.com/user-attachments/assets/143796e2-e0c7-405f-aae8-45e8c95c4465">
 
 ### local method:
 
