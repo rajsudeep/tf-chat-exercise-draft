@@ -8,10 +8,18 @@
 
 You can open the code and application using codesandbox by opening this link [https://codesandbox.io/p/github/rajsudeep/tf-chat-exercise-draft](https://codesandbox.io/p/github/rajsudeep/tf-chat-exercise-draft/main?import=true&workspaceId=81299c84-cd93-4ac5-99ec-c51954c35682&layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522clzkxlsmm0006356iw5qycra8%2522%252C%2522sizes%2522%253A%255B100%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522clzkxlsml0002356iq3up5oq1%2522%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522clzkxlsml0004356ikjyxpxfl%2522%257D%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522clzkxlsmm0005356i7ta6e0zp%2522%257D%255D%257D%255D%252C%2522sizes%2522%253A%255B50%252C50%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clzkxlsml0002356iq3up5oq1%2522%253A%257B%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clzkxlsml0001356iqhahy090%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252FREADME.md%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%255D%252C%2522id%2522%253A%2522clzkxlsml0002356iq3up5oq1%2522%252C%2522activeTabId%2522%253A%2522clzkxlsml0001356iqhahy090%2522%257D%252C%2522clzkxlsmm0005356i7ta6e0zp%2522%253A%257B%2522id%2522%253A%2522clzkxlsmm0005356i7ta6e0zp%2522%252C%2522activeTabId%2522%253A%2522clzlivnd100043b6i9trjbzjj%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522SETUP_TASKS%2522%252C%2522id%2522%253A%2522clzkxltq9000d356i07tvi93f%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%252C%257B%2522type%2522%253A%2522UNASSIGNED_PORT%2522%252C%2522port%2522%253A2222%252C%2522id%2522%253A%2522clzli5oww000u356i8rte9zh3%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%252C%257B%2522type%2522%253A%2522ENV_SETUP%2522%252C%2522id%2522%253A%2522clzlivnd100043b6i9trjbzjj%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%252C%2522clzkxlsml0004356ikjyxpxfl%2522%253A%257B%2522id%2522%253A%2522clzkxlsml0004356ikjyxpxfl%2522%252C%2522activeTabId%2522%253A%2522clzkxlsml0003356ize2mhvjo%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clzkxlsml0003356ize2mhvjo%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522NEW_TERMINAL%2522%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522start%2522%252C%2522id%2522%253A%2522clzkxlwc0000k356ikja5k39d%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%257D%252C%2522showDevtools%2522%253Afalse%252C%2522showShells%2522%253Afalse%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D).
 
+To have the preview (where you can see the demo of the application) run on port 3000, run "start" from the Dev Tools' "task" section as seen in the below image.
+
+<img width="340" alt="Screen Shot 2024-08-08 at 10 04 08 AM" src="https://github.com/user-attachments/assets/143796e2-e0c7-405f-aae8-45e8c95c4465">
+
+It will follow up with a popup in the bottom right corner, click on "Open Preview".
+
+<img width="533" alt="Screen Shot 2024-08-08 at 10 53 24 AM" src="https://github.com/user-attachments/assets/8ef26e87-3717-41ee-a3f4-bd716c793ea5">
+
+
 > [!NOTE]  
-> If the preview of the application isn't working it could be because the workspace has either package-lock.json or yarn.lock files. Please delete them and run "start" from the Dev Tools' Task section.
-> 
-> <img width="340" alt="Screen Shot 2024-08-08 at 10 04 08 AM" src="https://github.com/user-attachments/assets/143796e2-e0c7-405f-aae8-45e8c95c4465">
+> If the preview of the application isn't working it could be because:
+>  * The workspace has either package-lock.json or yarn.lock files. Please delete them and try to run "start" from the Dev Tools' Task section.
 
 ### local method:
 
@@ -22,7 +30,8 @@ npm install
 npm start
 ```
 
-Feel free to contact me if there are any issues running the application.
+> [!NOTE]  
+> Recommended to go with the first method to avoid having to deal with module / library version conflicts and such. Feel free to contact me if there are any issues running the application regardless.
 
 ## React SDKs / Component Libraries Considered
 
