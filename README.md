@@ -1,5 +1,7 @@
 # Chat App Exercise
 
+(this app was created off this [base template from MUI React Component Library](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/master/examples/material-ui-cra-ts?file=%2Fsrc%2FProTip.tsx))
+
 ## How to use
 
 ### codesandbox.io method:
