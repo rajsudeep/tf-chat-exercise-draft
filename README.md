@@ -23,7 +23,6 @@ I then checked more flexible libraries such as Chakra UI, Ant Design, and Materi
 
 ## Known Bugs and Improvements to Consider
 
-- The scroll in the messages container does not go to the end to show the most recent message recieved
 - We right now assume the data's particpants has the main user of the session as the first item in the array. However, we would want to also control the state of the current user's session and use that to determine if it is appropriate to show their name in the header / in MessagingContainer but for the sake of simplicity of this exercise we have hardcoded it said state.
 - We could have a better no chat items in list state
 - Needs loading states
@@ -36,5 +35,4 @@ I then checked more flexible libraries such as Chakra UI, Ant Design, and Materi
 - urls are not linkable in message view
 - Message view header has a Mui defined min-width attribute that isn't reachable from the styles prop so there is extra spacing between avatar and name
 - Several areas need some more cosmetic love (especially the create chat popover)
-- Adding ability to react to messages with emojis
 - Needs tests !!!
